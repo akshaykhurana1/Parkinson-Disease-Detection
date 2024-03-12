@@ -8,7 +8,7 @@ The dataset contains various features, but the target variable we are interested
 # Problem Statement
 This is a classification problem where the objective is to predict whether an individual has Parkinson's disease based on the provided features. The goal is to build an accurate model that can help in the timely diagnosis and treatment of Parkinson's disease.
 
-Methodology
+# Methodology
 To address this problem, we will follow these steps:<br>
 
 **Data Preprocessing**: We will clean the data, handle missing values, and perform feature engineering if necessary.<br>
